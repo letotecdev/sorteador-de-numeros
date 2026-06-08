@@ -15,7 +15,8 @@ O Sorteador de Números foi desenvolvido com o objetivo de praticar conceitos de
 
 ##  Demonstração
 
-
+[
+](https://github.com/letotecdev/sorteador-de-numeros/blob/main/assets/sorteador.png)
 ```md
 ![Preview do Projeto](./assets/sorteador.png)
 ```
