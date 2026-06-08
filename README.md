@@ -15,10 +15,9 @@ O Sorteador de Números foi desenvolvido com o objetivo de praticar conceitos de
 
 ##  Demonstração
 
-> Adicione aqui um print da aplicação.
 
 ```md
-![Preview do Projeto](./assets/preview.png)
+![Preview do Projeto](./assets/sorteador.png)
 ```
 
 ## 🛠️ Tecnologias Utilizadas
